@@ -250,19 +250,21 @@ body{
 	.container .jumbotron{
 		padding: 0;
 		margin-top: 10px;
+		width: 100%;
 		
 	}
 	.navbar-brand {
 		padding-top: 10px;
 		height: 40px;
+
 	}
 
 	.navbar-brand h1 {
-		font-size: 1.8em;
+		font-size: 1.5em;
 	}
 
 	#menu-tile, #specials-tile{
-		width: 367px;
+		width: 287px;
 		margin: 0px auto 15px;
 	}
 
