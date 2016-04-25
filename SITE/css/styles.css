@@ -207,8 +207,69 @@ body{
 	opacity: 0.8;
 }
 
+/* End of Menu-Categories */
+
+/* Single Categories */
+#main-content div{
+	padding-bottom: 15px;
+}
+
+.menu-item-tile{
+	margin-bottom: 25px;
+	color: #990000;
+}
+
+.menu-item-tile hr{
+	width: 80%;
+	border-color: #990000;
+}
+
+.menu-item-tile .menu-item-price{
+	
+	font-size: 1.1em;
+	text-align: right;
+	margin-top: -15px;
+	margin-right: -15px;
+}
+
+.menu-item-photo {
+	position: relative;
+	border: 2px solid #FFCC33;
+	overflow: hidden;
+	padding:0 ;
+	margin-right: -15px;
+	margin-left: auto;
+	margin-bottom: 20px;
+	max-width: 250px;
+}
+
+.menu-item-photo div{
+	color: #ffffff;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	width: 80px;
+	background-color: #11;
+	text-align: center;
+}
+
+.menu-item-description{
+	padding-right: 30px;
+}
+
+.h3.menu-item-title{
+	margin: 0 0 10px;
+}
+
+.menu-item-details{
+	font-size: 0.9em;
+	font-style: italic;
+}
 
 
+
+
+/* End of Singel Categories */
 
 
 /**** Media Queries ***/
