@@ -257,7 +257,7 @@ body{
 	padding-right: 30px;
 }
 
-.h3.menu-item-title{
+h3.menu-item-title{
 	margin: 0 0 10px;
 }
 
@@ -338,6 +338,17 @@ body{
   	width: 50%;
   }
 
+  .menu-item-photo{
+  	margin-right: auto;
+  }
+
+  .menu-item-tile .menu-item-price{
+  	text-align: center;
+  }
+
+  .menu-item-description{
+  	text-align: center;
+  }
 }
 
 
