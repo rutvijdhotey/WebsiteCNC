@@ -20,7 +20,7 @@ body{
 
 .navbar-brand {
 	padding-top: 30px;
-	padding: 15px 0px;
+	/*padding: 15px 0px;*/
 }
 
 .navbar-brand h1 {
@@ -210,9 +210,6 @@ body{
 /* End of Menu-Categories */
 
 /* Single Categories */
-#main-content div{
-	padding-bottom: 15px;
-}
 
 .menu-item-tile{
 	margin-bottom: 25px;
@@ -349,6 +346,8 @@ h3.menu-item-title{
   .menu-item-description{
   	text-align: center;
   }
+
+  
 }
 
 
